@@ -1,0 +1,17 @@
+.sidebar {
+  float:  right;
+  width:  200px;
+  background-image: url("../images/upcoming.png");
+}
+.about {
+  float:  left;
+  width:  350px;
+}
+.images {
+  float:  left;
+  width:  200px;
+  length: 200px;
+}
+body {
+  background-image: url("../images/band2.png");
+}
